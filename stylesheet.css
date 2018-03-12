@@ -1,12 +1,6 @@
 *CSS Practice File for pbachman6 github
 
-body {
-background: #fcb8cf; /* Old browsers */
-background: -moz-linear-gradient(top, #fcb8cf 0%, #f3a9be 4%, #e490a4 17%, #ea90a3 37%, #f090a5 50%, #f5a3c4 61%, #e56b87 90%, #e56b87 90%, #fdbde2 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #fcb8cf 0%,#f3a9be 4%,#e490a4 17%,#ea90a3 37%,#f090a5 50%,#f5a3c4 61%,#e56b87 90%,#e56b87 90%,#fdbde2 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #fcb8cf 0%,#f3a9be 4%,#e490a4 17%,#ea90a3 37%,#f090a5 50%,#f5a3c4 61%,#e56b87 90%,#e56b87 90%,#fdbde2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb8cf', endColorstr='#fdbde2',GradientType=0 ); /* IE6-9 */
-}
+
 
 h1 {
   color:green;
@@ -26,4 +20,13 @@ h1 {
   margin-right: auto;
   width: 40%;
   border: 3px solid green;
+}
+
+body {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0f9ff+0,cbebff+47,a1dbff+100;Blue+3D+%2313 */
+background: #f0f9ff; /* Old browsers */
+background: -moz-linear-gradient(top, #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
 }
